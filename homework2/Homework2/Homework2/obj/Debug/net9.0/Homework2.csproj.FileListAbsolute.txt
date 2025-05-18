@@ -1,0 +1,15 @@
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/bin/Debug/net9.0/Homework2
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/bin/Debug/net9.0/Homework2.deps.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/bin/Debug/net9.0/Homework2.runtimeconfig.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/bin/Debug/net9.0/Homework2.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/bin/Debug/net9.0/Homework2.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/obj/Debug/net9.0/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/obj/Debug/net9.0/Homework2.AssemblyInfoInputs.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/obj/Debug/net9.0/Homework2.AssemblyInfo.cs
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/obj/Debug/net9.0/Homework2.csproj.CoreCompileInputs.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/obj/Debug/net9.0/Homework2.sourcelink.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/obj/Debug/net9.0/Homework2.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/obj/Debug/net9.0/refint/Homework2.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/obj/Debug/net9.0/Homework2.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/obj/Debug/net9.0/Homework2.genruntimeconfig.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework2/Homework2/Homework2/obj/Debug/net9.0/ref/Homework2.dll
