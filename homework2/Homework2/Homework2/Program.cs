@@ -26,10 +26,4 @@ class Program
         DecimalNumber number = new DecimalNumber(255);
         number.Show();
     }
-    
-    
-
-    
-
-    
 }
