@@ -1,0 +1,15 @@
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/bin/Debug/net9.0/Homework4
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/bin/Debug/net9.0/Homework4.deps.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/bin/Debug/net9.0/Homework4.runtimeconfig.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/bin/Debug/net9.0/Homework4.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/bin/Debug/net9.0/Homework4.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/obj/Debug/net9.0/Homework4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/obj/Debug/net9.0/Homework4.AssemblyInfoInputs.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/obj/Debug/net9.0/Homework4.AssemblyInfo.cs
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/obj/Debug/net9.0/Homework4.csproj.CoreCompileInputs.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/obj/Debug/net9.0/Homework4.sourcelink.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/obj/Debug/net9.0/Homework4.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/obj/Debug/net9.0/refint/Homework4.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/obj/Debug/net9.0/Homework4.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/obj/Debug/net9.0/Homework4.genruntimeconfig.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework4/Homework4/Homework4/obj/Debug/net9.0/ref/Homework4.dll
