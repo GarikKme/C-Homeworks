@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.deps.json
+C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.AssemblyInfo.cs
+C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Domain.dll
+C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Domain.dll
