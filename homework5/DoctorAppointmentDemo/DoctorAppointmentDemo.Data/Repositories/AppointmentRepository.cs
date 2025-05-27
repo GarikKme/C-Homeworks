@@ -1,5 +1,4 @@
 using MyDoctorAppointment.Data.Interfaces;
-
 using MyDoctorAppointment.Data.Configuration;
 using MyDoctorAppointment.Data.Interfaces;
 using MyDoctorAppointment.Domain.Entities;

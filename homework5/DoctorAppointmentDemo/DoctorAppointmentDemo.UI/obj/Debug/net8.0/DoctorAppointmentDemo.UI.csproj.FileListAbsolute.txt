@@ -1,23 +1,47 @@
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.AssemblyInfoInputs.cache
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.AssemblyInfo.cs
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.csproj.CoreCompileInputs.cache
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.UI.exe
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.UI.deps.json
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.UI.runtimeconfig.json
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.UI.dll
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.UI.pdb
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.dll
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\refint\DoctorAppointmentDemo.UI.dll
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.pdb
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.genruntimeconfig.cache
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\ref\DoctorAppointmentDemo.UI.dll
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.Data.dll
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.Service.dll
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.Service.pdb
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.Data.pdb
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.csproj.AssemblyReference.cache
-C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.UI\obj\Debug\net8.0\DoctorAppointmentDemo.UI.csproj.CopyComplete
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.AssemblyInfoInputs.cache
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.AssemblyInfo.cs
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.csproj.CoreCompileInputs.cache
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.UI.exe
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.UI.deps.json
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.UI.runtimeconfig.json
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.UI.dll
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.UI.pdb
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.dll
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/refint/DoctorAppointmentDemo.UI.dll
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.pdb
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.genruntimeconfig.cache
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/ref/DoctorAppointmentDemo.UI.dll
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.Data.dll
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.Domain.dll
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.Service.dll
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.Service.pdb
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.Data.pdb
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.Domain.pdb
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.csproj.AssemblyReference.cache
+C:/Users/admin/source/repos/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.csproj.CopyComplete
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.csproj.AssemblyReference.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.AssemblyInfoInputs.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.AssemblyInfo.cs
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.csproj.CoreCompileInputs.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.sourcelink.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/refint/DoctorAppointmentDemo.UI.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.UI
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.UI.deps.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.UI.runtimeconfig.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.UI.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.UI.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.Data.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.Domain.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.Service.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.Service.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.Data.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/bin/Debug/net8.0/DoctorAppointmentDemo.Domain.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAp.CE4BB875.Up2Date
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/DoctorAppointmentDemo.UI.genruntimeconfig.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework5/DoctorAppointmentDemo/DoctorAppointmentDemo.UI/obj/Debug/net8.0/ref/DoctorAppointmentDemo.UI.dll

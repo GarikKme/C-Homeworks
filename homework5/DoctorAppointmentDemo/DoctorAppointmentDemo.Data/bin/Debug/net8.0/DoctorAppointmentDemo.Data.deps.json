@@ -25,7 +25,10 @@
       },
       "DoctorAppointmentDemo.Domain/1.0.0": {
         "runtime": {
-          "DoctorAppointmentDemo.Domain.dll": {}
+          "DoctorAppointmentDemo.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
