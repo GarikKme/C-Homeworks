@@ -53,5 +53,7 @@ class Program
         Console.WriteLine(creditCard > creditCard2
             ? "First card balance is bigger than second card balance"
             : "First card balance is smaller than second card balance");
+        
     }
+
 }

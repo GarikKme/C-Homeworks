@@ -4,6 +4,17 @@ using MyDoctorAppointment.Service.Services;
 
 namespace MyDoctorAppointment
 {
+
+    public class Patient
+    {
+        private readonly IPatientService _patientService;
+
+        public Patient()
+        {
+            _patientService = new PatientService();
+        }
+    }
+    
     public class DoctorAppointment
     {
         private readonly IDoctorService _doctorService;
@@ -131,6 +142,9 @@ namespace MyDoctorAppointment
         {
             var doctorAppointment = new DoctorAppointment();
             doctorAppointment.Menu();
+            
+            var patient = new Patient();
+            patient.ToString();
         }
     }
 }

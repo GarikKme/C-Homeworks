@@ -1,0 +1,15 @@
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/bin/Debug/net9.0/Homework7
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/bin/Debug/net9.0/Homework7.deps.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/bin/Debug/net9.0/Homework7.runtimeconfig.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/bin/Debug/net9.0/Homework7.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/bin/Debug/net9.0/Homework7.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/obj/Debug/net9.0/Homework7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/obj/Debug/net9.0/Homework7.AssemblyInfoInputs.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/obj/Debug/net9.0/Homework7.AssemblyInfo.cs
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/obj/Debug/net9.0/Homework7.csproj.CoreCompileInputs.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/obj/Debug/net9.0/Homework7.sourcelink.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/obj/Debug/net9.0/Homework7.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/obj/Debug/net9.0/refint/Homework7.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/obj/Debug/net9.0/Homework7.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/obj/Debug/net9.0/Homework7.genruntimeconfig.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/homework7/Homework7/obj/Debug/net9.0/ref/Homework7.dll
