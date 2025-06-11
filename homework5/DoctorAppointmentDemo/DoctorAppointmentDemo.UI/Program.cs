@@ -1,4 +1,7 @@
-﻿using MyDoctorAppointment.Domain.Entities;
+﻿using DoctorAppointmentDemo.Data.Serialization;
+using MyDoctorAppointment.Data.Interfaces;
+using MyDoctorAppointment.Data.Repositories;
+using MyDoctorAppointment.Domain.Entities;
 using MyDoctorAppointment.Service.Interfaces;
 using MyDoctorAppointment.Service.Services;
 
@@ -9,9 +12,9 @@ namespace MyDoctorAppointment
     {
         private readonly IPatientService _patientService;
 
-        public Patient()
+        public Patient(IPatientService patientService)
         {
-            _patientService = new PatientService();
+            _patientService = patientService;
         }
     }
     
@@ -25,9 +28,9 @@ namespace MyDoctorAppointment
             Exit = 3
         }
 
-        public DoctorAppointment()
+        public DoctorAppointment(IDoctorService doctorService)
         {
-            _doctorService = new DoctorService();
+            _doctorService = doctorService;
         }
 
         public void Menu()
@@ -140,11 +143,28 @@ namespace MyDoctorAppointment
     {
         public static void Main()
         {
-            var doctorAppointment = new DoctorAppointment();
-            doctorAppointment.Menu();
+            //var doctorAppointment = new DoctorAppointment();
+            //doctorAppointment.Menu();
             
-            var patient = new Patient();
-            patient.ToString();
+            // var patient = new Patient();
+            // patient.ToString();
+            
+            Console.WriteLine("Choose format:");
+            Console.WriteLine("1 - JSON");
+            Console.WriteLine("2 - XML");
+            Console.Write("Your choice: ");
+            var format = Console.ReadLine();
+            
+            ISerializer serializer = format == "2"
+                ? new XmlDataSerializer()
+                : new JsonDataSerializer();
+            
+            var doctorRepo = new DoctorRepository(serializer);
+            IDoctorService doctorService = new DoctorService(doctorRepo);
+
+            var app = new DoctorAppointment(doctorService);
+            app.Menu();
         }
     }
+    
 }

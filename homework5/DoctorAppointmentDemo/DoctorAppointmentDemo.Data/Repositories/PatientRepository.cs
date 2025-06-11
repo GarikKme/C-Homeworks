@@ -11,7 +11,7 @@ public class PatientRepository : GenericRepository<Patient>, IPatientRepository
     
     public override int LastId { get; set; }
 
-    public PatientRepository()
+    public PatientRepository(ISerializer serializer) : base(serializer)
     {
         dynamic result = ReadFromAppSettings();
         LastId = result.LastId;

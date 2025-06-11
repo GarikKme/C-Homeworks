@@ -10,7 +10,7 @@ namespace MyDoctorAppointment.Data.Repositories
 
         public override int LastId { get; set; }
 
-        public DoctorRepository()
+        public DoctorRepository(ISerializer serializer) : base(serializer)
         {
             dynamic result = ReadFromAppSettings();
 
@@ -21,6 +21,7 @@ namespace MyDoctorAppointment.Data.Repositories
         public override void ShowInfo(Doctor doctor)
         {
             Console.WriteLine(); // implement view of all object fields
+            // Console.WriteLine($"{doctor.Id} - {doctor.Name}, {doctor.Specialty}");
         }
 
         protected override void SaveLastId()

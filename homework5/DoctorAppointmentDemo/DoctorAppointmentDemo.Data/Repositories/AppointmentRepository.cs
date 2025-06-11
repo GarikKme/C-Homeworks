@@ -11,7 +11,7 @@ namespace MyDoctorAppointment.Data.Repositories
 
         public override int LastId { get; set; }
 
-        public AppointmentRepository()
+        public AppointmentRepository(ISerializer serializer) : base(serializer)
         {
             dynamic result = ReadFromAppSettings();
 

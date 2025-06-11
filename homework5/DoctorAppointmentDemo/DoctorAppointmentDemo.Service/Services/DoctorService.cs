@@ -9,9 +9,9 @@ namespace MyDoctorAppointment.Service.Services
     {
         private readonly IDoctorRepository _doctorRepository;
 
-        public DoctorService()
+        public DoctorService(IDoctorRepository doctorRepository)
         {
-            _doctorRepository = new DoctorRepository();
+            _doctorRepository = doctorRepository;
         }
 
         public Doctor Create(Doctor doctor)

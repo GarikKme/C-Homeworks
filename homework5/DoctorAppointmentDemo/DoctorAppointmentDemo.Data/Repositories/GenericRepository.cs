@@ -10,6 +10,26 @@ namespace MyDoctorAppointment.Data.Repositories
         public abstract string Path { get; set; }
 
         public abstract int LastId { get; set; }
+        
+        protected readonly ISerializer _serializer;
+        
+        protected GenericRepository(ISerializer serializer)
+        {
+            _serializer = serializer;
+        }
+
+        public virtual void Save(List<TSource> items)
+        {
+            var content = _serializer.Serialize(items);
+            File.WriteAllText(Path, content);
+        }
+
+        public virtual List<TSource> Load()
+        {
+            if(!File.Exists(Path)) return new List<TSource>();
+            var content = File.ReadAllText(Path);
+            return _serializer.Deserialize<TSource>(content).ToList();
+        }
 
         public TSource Create(TSource source)
         {
