@@ -1,0 +1,46 @@
+@model IEnumerable<Teacher>
+
+@{
+    ViewData["Title"] = "Teacher list";
+}
+
+<div class="container shadow p-5">
+    <h1>Teacher CRUD Demo</h1>
+
+    <div class="col mb-3">
+        <a asp-controller="Teacher" asp-action="Create" class="btn btn-lg btn-primary"><i class="bi bi-file-plus-fill"></i>Add Teacher</a>
+    </div>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Age</th>
+            <th scope="col">Address</th>
+            <th scope="col">Created At</th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach(var teacher in Model)
+        {
+            <tr>
+                <td width="20%">@teacher.Name</td>
+                <td width="20%">@teacher.Email</td>
+                <td width="25%">@teacher.Subject</td>
+                <td width="20%">@teacher.CreatedAt</td>
+                <td>
+                    <div role="group" class="w-60 btn-group">
+                        <span style="margin-right: 5px;">
+                            <a asp-controller="Teacher" asp-action="Edit" asp-route-id="@teacher.Id" class="btn btn-sm btn-primary"><i class="bi bi-pencil-square"></i>Edit</a>
+                        </span>
+                        <span>
+                            <a asp-controller="Teacher" asp-action="Delete" asp-route-id="@teacher.Id" class="btn btn-sm btn-danger"><i class="bi bi-trash-fill"></i>Delete</a>
+                        </span>
+                    </div>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
