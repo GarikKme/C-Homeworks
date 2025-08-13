@@ -1,0 +1,12 @@
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Contract/bin/Debug/net8.0/InternetShopAPI.Contract.deps.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Contract/bin/Debug/net8.0/InternetShopAPI.Contract.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Contract/bin/Debug/net8.0/InternetShopAPI.Contract.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Contract/obj/Debug/net8.0/InternetShopAPI.Contract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Contract/obj/Debug/net8.0/InternetShopAPI.Contract.AssemblyInfoInputs.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Contract/obj/Debug/net8.0/InternetShopAPI.Contract.AssemblyInfo.cs
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Contract/obj/Debug/net8.0/InternetShopAPI.Contract.csproj.CoreCompileInputs.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Contract/obj/Debug/net8.0/InternetShopAPI.Contract.sourcelink.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Contract/obj/Debug/net8.0/InternetShopAPI.Contract.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Contract/obj/Debug/net8.0/refint/InternetShopAPI.Contract.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Contract/obj/Debug/net8.0/InternetShopAPI.Contract.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Contract/obj/Debug/net8.0/ref/InternetShopAPI.Contract.dll

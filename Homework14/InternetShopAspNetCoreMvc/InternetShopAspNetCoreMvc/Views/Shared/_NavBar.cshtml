@@ -1,0 +1,20 @@
+﻿<ul class="navbar-nav mr-auto">
+    <li class="nav-item">
+        <a class="nav-link" href="@Url.Action("Index", "Products")">Товары</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="@Url.Action("Index", "Cart")">Корзина</a>
+    </li>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <li class="nav-item">
+            <a class="nav-link" href="@Url.Action("Logout", "Account")">Выйти</a>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link" href="@Url.Action("Login", "Account")">Войти</a>
+        </li>
+    }
+</ul>

@@ -1,0 +1,15 @@
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/bin/Debug/net8.0/InternetShopAPI.Data.deps.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/bin/Debug/net8.0/InternetShopAPI.Data.runtimeconfig.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/bin/Debug/net8.0/InternetShopAPI.Data.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/bin/Debug/net8.0/InternetShopAPI.Data.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/obj/Debug/net8.0/InternetShopAPI.Data.csproj.AssemblyReference.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/obj/Debug/net8.0/InternetShopAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/obj/Debug/net8.0/InternetShopAPI.Data.AssemblyInfoInputs.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/obj/Debug/net8.0/InternetShopAPI.Data.AssemblyInfo.cs
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/obj/Debug/net8.0/InternetShopAPI.Data.csproj.CoreCompileInputs.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/obj/Debug/net8.0/InternetShopAPI.Data.sourcelink.json
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/obj/Debug/net8.0/InternetShopAPI.Data.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/obj/Debug/net8.0/refint/InternetShopAPI.Data.dll
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/obj/Debug/net8.0/InternetShopAPI.Data.pdb
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/obj/Debug/net8.0/InternetShopAPI.Data.genruntimeconfig.cache
+/Users/igor/Desktop/C#Lessons and files/Homeworks/Homework15/InternetShopAPI/InternetShopAPI.Data/obj/Debug/net8.0/ref/InternetShopAPI.Data.dll

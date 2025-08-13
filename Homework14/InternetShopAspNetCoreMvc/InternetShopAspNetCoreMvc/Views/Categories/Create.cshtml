@@ -1,0 +1,29 @@
+﻿@using InternetShopAspNetCoreMvc.ViewModels;
+@model CategoryViewModel
+
+@{
+    ViewData["Title"] = "Create";
+    ViewData["ShowHiddenFields"] = false;
+}
+
+<h1 class="center">Add category</h1>
+<hr />
+<div class="row">
+    <div class="col-md-16">
+        <form asp-action="Create">
+            @await Html.PartialAsync("_CategoryForm", Model)
+            <div class="form-group center m-3">
+                <input type="submit" value="Create" class="btn btn-primary width-200-px" />
+            </div>
+            <div class="form-group center m-3">
+                <a class="btn btn-secondary width-200-px" asp-action="Index">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
