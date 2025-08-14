@@ -24,6 +24,16 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
-app.UseAuthorization();
+// app.MapGet("/product", () =>
+// {
+//     return new
+//     {
+//         Id = 1,
+//         Name = "Test Product",
+//         Price = 9.99
+//     };
+// });
+
+// app.UseHttpsRedirection();
+// app.UseAuthorization();
 app.Run();

@@ -9,6 +9,8 @@ namespace InternetShopAPI.Services.Commands
         public int ProductId { get; set; }
         public string Title { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;
+
+        public decimal Price { get; set; }
         public DateTime ReleaseDate { get; set; }
     }
 
@@ -32,6 +34,7 @@ namespace InternetShopAPI.Services.Commands
             // Полное обновление всех обязательных полей
             product.Title = request.Title;
             product.Description = request.Description;
+            product.Price = request.Price;
             product.ReleaseDate = request.ReleaseDate;
 
             await _dbContext.SaveChangesAsync(cancellationToken);
@@ -41,6 +44,7 @@ namespace InternetShopAPI.Services.Commands
                 ProductId = product.ProductId,
                 Title = product.Title,
                 Description = product.Description,
+                Price = product.Price,
                 ReleaseDate = product.ReleaseDate
             };
         }

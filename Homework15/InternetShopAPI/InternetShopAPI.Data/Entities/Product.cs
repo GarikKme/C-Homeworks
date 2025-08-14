@@ -14,9 +14,11 @@ public class Product
         [StringLength(255)]
         public string Title { get; set; }
 
-        [Required]
         [StringLength(500)]
         public string Description { get; set; }
+
+        [Column(TypeName = "decimal(10,2)")]
+        public decimal Price { get; set; } = 0m;
 
         [Required]
         public DateTime ReleaseDate { get; set; }

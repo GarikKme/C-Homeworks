@@ -9,6 +9,8 @@ namespace InternetShopAPI.Services.Commands
         public int ProductId { get; set; }
         public string? Title { get; set; }
         public string? Description { get; set; }
+
+        public decimal Price { get; set; }
         public DateTime? ReleaseDate { get; set; }
     }
 
@@ -27,12 +29,14 @@ namespace InternetShopAPI.Services.Commands
             if (product == null)
                 throw new KeyNotFoundException($"Product with id {request.ProductId} not found.");
 
-            // Обновляем только те поля, что пришли не null
             if (request.Title != null)
                 product.Title = request.Title;
 
             if (request.Description != null)
                 product.Description = request.Description;
+
+            if (request.Price != null)
+                product.Price = request.Price;
 
             if (request.ReleaseDate.HasValue)
                 product.ReleaseDate = request.ReleaseDate.Value;
@@ -44,6 +48,7 @@ namespace InternetShopAPI.Services.Commands
                 ProductId = product.ProductId,
                 Title = product.Title,
                 Description = product.Description,
+                Price = product.Price,
                 ReleaseDate = product.ReleaseDate
             };
         }

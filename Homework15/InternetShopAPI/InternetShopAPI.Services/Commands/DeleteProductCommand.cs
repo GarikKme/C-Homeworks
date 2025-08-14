@@ -20,11 +20,11 @@ public class DeleteProductCommandHandler : IRequestHandler<DeleteProductCommand,
 
     public async Task<bool> Handle(DeleteProductCommand request, CancellationToken cancellationToken = default)
     {
-        var movie = await GetProductAsync(request.ProductId, cancellationToken);
+        var product = await GetProductAsync(request.ProductId, cancellationToken);
 
-        if (movie != null)
+        if (product != null)
         {
-            _context.Remove(movie);
+            _context.Remove(product);
             await _context.SaveChangesAsync(cancellationToken);
 
             return true;
