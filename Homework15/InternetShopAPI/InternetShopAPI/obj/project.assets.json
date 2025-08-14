@@ -1124,7 +1124,8 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "InternetShopAPI.Contract": "1.0.0",
-          "InternetShopAPI.Data": "1.0.0"
+          "InternetShopAPI.Data": "1.0.0",
+          "LinqKit.Microsoft.EntityFrameworkCore": "9.0.8"
         },
         "compile": {
           "bin/placeholder/InternetShopAPI.Services.dll": {}

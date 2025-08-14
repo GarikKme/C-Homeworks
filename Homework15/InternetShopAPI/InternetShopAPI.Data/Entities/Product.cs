@@ -20,4 +20,8 @@ public class Product
 
         [Required]
         public DateTime ReleaseDate { get; set; }
+
+        // --- Связь с Category ---
+        public int CategoryId { get; set; } // FK
+        public Category Category { get; set; } = null!; // навигационное свойство
 }

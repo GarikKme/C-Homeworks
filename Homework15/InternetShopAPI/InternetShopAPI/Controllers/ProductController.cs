@@ -34,5 +34,56 @@ public class ProductController : ControllerBase
 
         return Ok(product);
     }
+
+    [HttpPut("{productId}")]
+    public async Task<IActionResult> PutProductAsync(
+        int productId,
+        [FromServices] IRequestHandler<PutProductCommand, ProductResponse> putProductHandler,
+        [FromBody] UpsertProductRequest request)
+    {
+        if (productId != request.ProductId)
+            return BadRequest("Route id and body ProductId must match.");
+
+        var result = await putProductHandler.Handle(new PutProductCommand
+        {
+            ProductId = request.ProductId,
+            Title = request.Title,
+            Description = request.Description,
+            ReleaseDate = request.ReleaseDate
+        });
+
+        return Ok(result);
+    }
+
+
+
+    [HttpPatch("{productId}")]
+    public async Task<IActionResult> PatchProductAsync(
+        int productId,
+        [FromServices] IRequestHandler<PatchProductCommand, ProductResponse> patchProductCommand,
+        [FromBody] PatchProductRequest request)
+    {
+        var product = await patchProductCommand.Handle(new PatchProductCommand
+        {
+            ProductId = productId,
+            Title = request.Title,            // можно null — значит не менять
+            Description = request.Description,
+            ReleaseDate = request.ReleaseDate
+        });
+
+        return Ok(product);
+    }
+
+    [HttpDelete("{productId}")]
+    public async Task<IActionResult> DeleteProductAsync(
+        int productId,
+        [FromServices] IRequestHandler<int, bool> deleteProductCommand)
+    {
+        var success = await deleteProductCommand.Handle(productId);
+        if (!success)
+            return NotFound();
+
+        return NoContent();
+    }
 }
 
